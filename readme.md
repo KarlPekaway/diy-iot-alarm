@@ -55,8 +55,8 @@ Let me know if there are any logical mistakes or errors, I'm sure something's no
     - Configure Node-Red to toggle the siren on or off
 
 ### Further information:
-Some text nodes still have german text in them, you may configure them to meet your needs. Also, especially used variables are still in german language.
-For connecting the PIR sensor to the raspberry directly, we recommend HC-SR501 modules. The SR501 gave us a lot of false positives when connected to an ESp8266 though, which is why we switched to AM312 PIR sensors for those.
+Some text nodes still have german text in them, you may configure them to meet your needs. Also, some names of variables I used are still in german language.
+For connecting the PIR sensor to the raspberry directly, we recommend HC-SR501 modules. The SR501 gave us a lot of false positives when connected to an ESP8266 though, which is why we switched to AM312 PIR sensors for those.
 
 - HC-SR501 PIR Sensor: www.banggood.com/HC-SR501-Adjustable-Infrared-IR-Pyroelectric-PIR-Module-Motion-Sensor-Human-Body-Induction-Detector-p-1545488.html
 - AM312 PIR Sensor: https://www.banggood.com/HC-SR505-Mini-Infrared-PIR-Motion-Sensor-Precise-Infrared-Detector-Module-p-1011714.html
