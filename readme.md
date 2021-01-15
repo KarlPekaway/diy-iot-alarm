@@ -37,7 +37,7 @@ Let me know if there are any logical mistakes or errors, I'm sure something's no
     - node-red-contrib-chatbot
     - node-red-contrib-schedex
     - node-red-node-pi-gpio
-4. Import the flow from DIY_NR_AlarmSystem.json into Node-Red
+4. Import the flow from DIY_NR_AlarmSystem.txt into Node-Red
 5. Create a new telegram Bot via @BotFather on Telegram
 6. For your ESP Modules, connect the PIR sensors and flash the code from DIY_ESP_Alarm.txt onto the devices
     - Configure the code to use your WiFi and preferred MQTT Topics
