@@ -9,6 +9,7 @@ Let me know if there are any logical mistakes or errors, I'm sure something's no
 - Raspberry Pi (or other platform to run Node-Red and MQTT-Broker)
 - Camera module for RPI (optional)
 - ESP8266 (optional)
+  - (Code uses libraries "PubSubClient" and "ESP8266WiFi")
 - PIR Sensors 
   - For direct connection with RPI - HC-SR501
   - For connection with ESP8266 - AM312
