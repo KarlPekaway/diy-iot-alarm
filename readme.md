@@ -19,7 +19,8 @@ Let me know if there are any logical mistakes or errors, I'm sure something's no
 - SONOFF Basic WIFI Wireless Smart Switch with Tasmota (https://tasmota.github.io/docs/devices/Sonoff-Basic/)
 - 12V DC Wired Siren Horn
 - SONOFF DW1 Door Window Sensor (optional)
-- SONOFF RF Bridge WIFI 433 MHz with Tasmota (https://tasmota.github.io/docs/devices/Sonoff-RF-Bridge-433/) 
+- SONOFF RF Bridge WIFI 433 MHz with Tasmota (https://tasmota.github.io/docs/devices/Sonoff-RF-Bridge-433/)
+  - only needed for the door/windows sensor
 
 ### Software needed:
 - Node-Red (requires NodeJS and npm) --> see https://nodered.org/docs/getting-started/
